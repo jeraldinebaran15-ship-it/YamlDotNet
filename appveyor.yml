@@ -51,3 +51,4 @@ for:
         api_key:
           secure: GMc0xUTASI8qTPK1/eN/GFs6PBhPFBin1TT1hE5N8NlkU7VSBx3z4zQinSv/ICmx
         artifact: /.*\.nupkg/
+
